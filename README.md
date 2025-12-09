@@ -6,7 +6,7 @@ A beautiful, modern time tracking application that helps you log daily activitie
 
 [View Live Demo](https://tabishachouhan.github.io/AI-Usage-Skills-Evaluation/)
 
-## 📺 Video Walkthrough
+## 📺 Video Walkthrough(https://paenbqtt5neoo.mocha.app/)
 
 [Watch Demo Video ](https://drive.google.com/file/d/1jiAN2wrCaWl1aqPLviUywBgAphwZDPl6/view?usp=sharing)
 
